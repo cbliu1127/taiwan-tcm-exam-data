@@ -1,0 +1,169 @@
+{
+  "exam_code": "101_1_1_2",
+  "year": "101",
+  "items": [
+    {
+      "id": 36,
+      "question_figures": [
+        "images/figures/q_0036_fig_01.png",
+        "images/figures/q_0036_fig_02.png",
+        "images/figures/q_0036_fig_03.png",
+        "images/figures/q_0036_fig_04.png",
+        "images/figures/q_0036_fig_05.png",
+        "images/figures/q_0036_fig_06.png",
+        "images/figures/q_0036_fig_07.png",
+        "images/figures/q_0036_fig_08.png"
+      ]
+    },
+    {
+      "id": 37,
+      "question_figures": [
+        "images/figures/q_0037_fig_01.png"
+      ]
+    },
+    {
+      "id": 38,
+      "question_figures": [
+        "images/figures/q_0038_fig_01.png"
+      ]
+    },
+    {
+      "id": 39,
+      "question_figures": [
+        "images/figures/q_0039_fig_01.png"
+      ]
+    },
+    {
+      "id": 40,
+      "question_figures": [
+        "images/figures/q_0040_fig_01.png",
+        "images/figures/q_0040_fig_02.png",
+        "images/figures/q_0040_fig_03.png",
+        "images/figures/q_0040_fig_04.png"
+      ]
+    },
+    {
+      "id": 41,
+      "question_figures": [
+        "images/figures/q_0041_fig_01.png",
+        "images/figures/q_0041_fig_02.png"
+      ]
+    },
+    {
+      "id": 42,
+      "question_figures": [
+        "images/figures/q_0042_fig_01.png",
+        "images/figures/q_0042_fig_02.png",
+        "images/figures/q_0042_fig_03.png",
+        "images/figures/q_0042_fig_04.png"
+      ]
+    },
+    {
+      "id": 43,
+      "question_figures": [
+        "images/figures/q_0043_fig_01.png",
+        "images/figures/q_0043_fig_02.png",
+        "images/figures/q_0043_fig_03.png",
+        "images/figures/q_0043_fig_04.png",
+        "images/figures/q_0043_fig_05.png"
+      ]
+    },
+    {
+      "id": 44,
+      "question_figures": [
+        "images/figures/q_0044_fig_01.png"
+      ]
+    },
+    {
+      "id": 45,
+      "question_figures": [
+        "images/figures/q_0045_fig_01.png",
+        "images/figures/q_0045_fig_02.png",
+        "images/figures/q_0045_fig_03.png",
+        "images/figures/q_0045_fig_04.png"
+      ]
+    },
+    {
+      "id": 46,
+      "question_figures": [
+        "images/figures/q_0046_fig_01.png",
+        "images/figures/q_0046_fig_02.png",
+        "images/figures/q_0046_fig_03.png",
+        "images/figures/q_0046_fig_04.png",
+        "images/figures/q_0046_fig_05.png"
+      ]
+    },
+    {
+      "id": 47,
+      "question_figures": [
+        "images/figures/q_0047_fig_01.png",
+        "images/figures/q_0047_fig_02.png",
+        "images/figures/q_0047_fig_03.png",
+        "images/figures/q_0047_fig_04.png",
+        "images/figures/q_0047_fig_05.png"
+      ]
+    },
+    {
+      "id": 48,
+      "question_figures": [
+        "images/figures/q_0048_fig_01.png",
+        "images/figures/q_0048_fig_02.png",
+        "images/figures/q_0048_fig_03.png",
+        "images/figures/q_0048_fig_04.png",
+        "images/figures/q_0048_fig_05.png"
+      ]
+    },
+    {
+      "id": 49,
+      "question_figures": [
+        "images/figures/q_0049_fig_01.png"
+      ]
+    },
+    {
+      "id": 50,
+      "question_figures": [
+        "images/figures/q_0050_fig_01.png",
+        "images/figures/q_0050_fig_02.png",
+        "images/figures/q_0050_fig_03.png",
+        "images/figures/q_0050_fig_04.png",
+        "images/figures/q_0050_fig_05.png"
+      ]
+    },
+    {
+      "id": 51,
+      "question_figures": [
+        "images/figures/q_0051_fig_01.png",
+        "images/figures/q_0051_fig_02.png",
+        "images/figures/q_0051_fig_03.png",
+        "images/figures/q_0051_fig_04.png"
+      ]
+    },
+    {
+      "id": 52,
+      "question_figures": [
+        "images/figures/q_0052_fig_01.png"
+      ]
+    },
+    {
+      "id": 53,
+      "question_figures": [
+        "images/figures/q_0053_fig_01.png",
+        "images/figures/q_0053_fig_02.png",
+        "images/figures/q_0053_fig_03.png",
+        "images/figures/q_0053_fig_04.png"
+      ]
+    },
+    {
+      "id": 54,
+      "question_figures": [
+        "images/figures/q_0054_fig_01.png"
+      ]
+    },
+    {
+      "id": 55,
+      "question_figures": [
+        "images/figures/q_0055_fig_01.png"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,111 @@
 # Public Dataset Index
 
-- exam_count: 126
-- question_count: 10080
+- exam_count: 174
+- question_count: 13920
+
+## 101
+
+- 101_1_1_1: questions=80, images=0, exam=101/101_1_1_1/exam.json
+
+- 101_1_1_2: questions=80, images=63, exam=101/101_1_1_2/exam.json
+
+- 101_1_2_1: questions=80, images=1, exam=101/101_1_2_1/exam.json
+
+- 101_1_2_2: questions=80, images=0, exam=101/101_1_2_2/exam.json
+
+- 101_1_2_3: questions=80, images=17, exam=101/101_1_2_3/exam.json
+
+- 101_1_2_4: questions=80, images=7, exam=101/101_1_2_4/exam.json
+
+- 101_2_1_1: questions=80, images=0, exam=101/101_2_1_1/exam.json
+
+- 101_2_1_2: questions=80, images=50, exam=101/101_2_1_2/exam.json
+
+- 101_2_2_1: questions=80, images=1, exam=101/101_2_2_1/exam.json
+
+- 101_2_2_2: questions=80, images=0, exam=101/101_2_2_2/exam.json
+
+- 101_2_2_3: questions=80, images=18, exam=101/101_2_2_3/exam.json
+
+- 101_2_2_4: questions=80, images=9, exam=101/101_2_2_4/exam.json
+
+## 102
+
+- 102_1_1_1: questions=80, images=0, exam=102/102_1_1_1/exam.json
+
+- 102_1_1_2: questions=80, images=64, exam=102/102_1_1_2/exam.json
+
+- 102_1_2_1: questions=80, images=0, exam=102/102_1_2_1/exam.json
+
+- 102_1_2_2: questions=80, images=0, exam=102/102_1_2_2/exam.json
+
+- 102_1_2_3: questions=80, images=8, exam=102/102_1_2_3/exam.json
+
+- 102_1_2_4: questions=80, images=6, exam=102/102_1_2_4/exam.json
+
+- 102_2_1_1: questions=80, images=0, exam=102/102_2_1_1/exam.json
+
+- 102_2_1_2: questions=80, images=69, exam=102/102_2_1_2/exam.json
+
+- 102_2_2_1: questions=80, images=0, exam=102/102_2_2_1/exam.json
+
+- 102_2_2_2: questions=80, images=0, exam=102/102_2_2_2/exam.json
+
+- 102_2_2_3: questions=80, images=14, exam=102/102_2_2_3/exam.json
+
+- 102_2_2_4: questions=80, images=8, exam=102/102_2_2_4/exam.json
+
+## 103
+
+- 103_1_1_1: questions=80, images=0, exam=103/103_1_1_1/exam.json
+
+- 103_1_1_2: questions=80, images=53, exam=103/103_1_1_2/exam.json
+
+- 103_1_2_1: questions=80, images=0, exam=103/103_1_2_1/exam.json
+
+- 103_1_2_2: questions=80, images=0, exam=103/103_1_2_2/exam.json
+
+- 103_1_2_3: questions=80, images=21, exam=103/103_1_2_3/exam.json
+
+- 103_1_2_4: questions=80, images=6, exam=103/103_1_2_4/exam.json
+
+- 103_2_1_1: questions=80, images=1, exam=103/103_2_1_1/exam.json
+
+- 103_2_1_2: questions=80, images=11, exam=103/103_2_1_2/exam.json
+
+- 103_2_2_1: questions=80, images=0, exam=103/103_2_2_1/exam.json
+
+- 103_2_2_2: questions=80, images=0, exam=103/103_2_2_2/exam.json
+
+- 103_2_2_3: questions=80, images=11, exam=103/103_2_2_3/exam.json
+
+- 103_2_2_4: questions=80, images=4, exam=103/103_2_2_4/exam.json
+
+## 104
+
+- 104_1_1_1: questions=80, images=0, exam=104/104_1_1_1/exam.json
+
+- 104_1_1_2: questions=80, images=4, exam=104/104_1_1_2/exam.json
+
+- 104_1_2_1: questions=80, images=0, exam=104/104_1_2_1/exam.json
+
+- 104_1_2_2: questions=80, images=1, exam=104/104_1_2_2/exam.json
+
+- 104_1_2_3: questions=80, images=4, exam=104/104_1_2_3/exam.json
+
+- 104_1_2_4: questions=80, images=4, exam=104/104_1_2_4/exam.json
+
+- 104_2_1_1: questions=80, images=0, exam=104/104_2_1_1/exam.json
+
+- 104_2_1_2: questions=80, images=4, exam=104/104_2_1_2/exam.json
+
+- 104_2_2_1: questions=80, images=0, exam=104/104_2_2_1/exam.json
+
+- 104_2_2_2: questions=80, images=0, exam=104/104_2_2_2/exam.json
+
+- 104_2_2_3: questions=80, images=6, exam=104/104_2_2_3/exam.json
+
+- 104_2_2_4: questions=80, images=0, exam=104/104_2_2_4/exam.json
 
 ## 105
 

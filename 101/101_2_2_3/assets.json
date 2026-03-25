@@ -1,0 +1,64 @@
+{
+  "exam_code": "101_2_2_3",
+  "year": "101",
+  "items": [
+    {
+      "id": 5,
+      "question_figures": [
+        "images/figures/q_0005_fig_01.png"
+      ]
+    },
+    {
+      "id": 12,
+      "question_figures": [
+        "images/figures/q_0012_fig_01.png",
+        "images/figures/q_0012_fig_02.png"
+      ]
+    },
+    {
+      "id": 25,
+      "question_figures": [
+        "images/figures/q_0025_fig_01.png",
+        "images/figures/q_0025_fig_02.png",
+        "images/figures/q_0025_fig_03.png",
+        "images/figures/q_0025_fig_04.png"
+      ]
+    },
+    {
+      "id": 27,
+      "question_figures": [
+        "images/figures/q_0027_fig_01.png"
+      ]
+    },
+    {
+      "id": 56,
+      "question_figures": [
+        "images/figures/q_0056_fig_01.png",
+        "images/figures/q_0056_fig_02.png",
+        "images/figures/q_0056_fig_03.png",
+        "images/figures/q_0056_fig_04.png"
+      ]
+    },
+    {
+      "id": 60,
+      "question_figures": [
+        "images/figures/q_0060_fig_01.png"
+      ]
+    },
+    {
+      "id": 63,
+      "question_figures": [
+        "images/figures/q_0063_fig_01.png",
+        "images/figures/q_0063_fig_02.png",
+        "images/figures/q_0063_fig_03.png",
+        "images/figures/q_0063_fig_04.png"
+      ]
+    },
+    {
+      "id": 64,
+      "question_figures": [
+        "images/figures/q_0064_fig_01.png"
+      ]
+    }
+  ]
+}

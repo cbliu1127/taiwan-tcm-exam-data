@@ -34,12 +34,12 @@
     },
     {
       "id": 52,
-      "question_figures": [
-        "images/figures/q_0052_fig_01.png",
-        "images/figures/q_0052_fig_02.png",
-        "images/figures/q_0052_fig_03.png",
-        "images/figures/q_0052_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0052_A.png",
+        "B": "images/options/q_0052_B.png",
+        "C": "images/options/q_0052_C.png",
+        "D": "images/options/q_0052_D.png"
+      }
     },
     {
       "id": 56,

@@ -16,20 +16,12 @@
     },
     {
       "id": 40,
-      "question_figures": [
-        "images/figures/q_0040_fig_01.png",
-        "images/figures/q_0040_fig_02.png",
-        "images/figures/q_0040_fig_03.png",
-        "images/figures/q_0040_fig_04.png",
-        "images/figures/q_0040_fig_05.png",
-        "images/figures/q_0040_fig_06.png",
-        "images/figures/q_0040_fig_07.png",
-        "images/figures/q_0040_fig_08.png",
-        "images/figures/q_0040_fig_09.png",
-        "images/figures/q_0040_fig_10.png",
-        "images/figures/q_0040_fig_11.png",
-        "images/figures/q_0040_fig_12.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0040_A.png",
+        "B": "images/options/q_0040_B.png",
+        "C": "images/options/q_0040_C.png",
+        "D": "images/options/q_0040_D.png"
+      }
     },
     {
       "id": 66,
@@ -45,12 +37,12 @@
     },
     {
       "id": 68,
-      "question_figures": [
-        "images/figures/q_0068_fig_01.png",
-        "images/figures/q_0068_fig_02.png",
-        "images/figures/q_0068_fig_03.png",
-        "images/figures/q_0068_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0068_A.png",
+        "B": "images/options/q_0068_B.png",
+        "C": "images/options/q_0068_C.png",
+        "D": "images/options/q_0068_D.png"
+      }
     },
     {
       "id": 69,
@@ -105,12 +97,12 @@
     },
     {
       "id": 76,
-      "question_figures": [
-        "images/figures/q_0076_fig_01.png",
-        "images/figures/q_0076_fig_02.png",
-        "images/figures/q_0076_fig_03.png",
-        "images/figures/q_0076_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0076_A.png",
+        "B": "images/options/q_0076_B.png",
+        "C": "images/options/q_0076_C.png",
+        "D": "images/options/q_0076_D.png"
+      }
     },
     {
       "id": 77,
@@ -129,12 +121,12 @@
     },
     {
       "id": 79,
-      "question_figures": [
-        "images/figures/q_0079_fig_01.png",
-        "images/figures/q_0079_fig_02.png",
-        "images/figures/q_0079_fig_03.png",
-        "images/figures/q_0079_fig_04.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0079_A.png",
+        "B": "images/options/q_0079_B.png",
+        "C": "images/options/q_0079_C.png",
+        "D": "images/options/q_0079_D.png"
+      }
     },
     {
       "id": 80,

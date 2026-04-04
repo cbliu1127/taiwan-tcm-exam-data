@@ -397,10 +397,10 @@
       "id": 40,
       "question": "止嗽散組成藥物中無下列何者？",
       "options": {
-        "A": "0 1cm",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -677,10 +677,10 @@
       "id": 68,
       "question": "下列何者不應用於膽石症的治療？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "(D)",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -757,10 +757,10 @@
       "id": 76,
       "question": "依《本草備要》記載，下列何種藥材能調脾暖胃，通利三焦，專治中宮之病？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "（待複核）",
-        "D": "（每格0.1 公分）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {
@@ -787,10 +787,10 @@
       "id": 79,
       "question": "下列藥物中，何者能補氣升陽，益衛固表？",
       "options": {
-        "A": "（待複核）",
-        "B": "（待複核）",
-        "C": "M",
-        "D": "（待複核）"
+        "A": "[IMAGE_OPTION_A]",
+        "B": "[IMAGE_OPTION_B]",
+        "C": "[IMAGE_OPTION_C]",
+        "D": "[IMAGE_OPTION_D]"
       }
     },
     {

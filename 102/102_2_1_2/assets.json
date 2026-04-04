@@ -56,16 +56,12 @@
     },
     {
       "id": 59,
-      "question_figures": [
-        "images/figures/q_0059_fig_01.png",
-        "images/figures/q_0059_fig_02.png",
-        "images/figures/q_0059_fig_03.png",
-        "images/figures/q_0059_fig_04.png",
-        "images/figures/q_0059_fig_05.png",
-        "images/figures/q_0059_fig_06.png",
-        "images/figures/q_0059_fig_07.png",
-        "images/figures/q_0059_fig_08.png"
-      ]
+      "option_images": {
+        "A": "images/options/q_0059_A.png",
+        "B": "images/options/q_0059_B.png",
+        "C": "images/options/q_0059_C.png",
+        "D": "images/options/q_0059_D.png"
+      }
     },
     {
       "id": 60,

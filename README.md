@@ -10,7 +10,7 @@ This repository contains structured data for Taiwan TCM national licensing exami
 
 - `index.json`：總索引
 - `index.md`：可讀版總索引
-- `105/` 到 `115/`：依年份分類的考卷資料
+- `101/` 到 `115/`：依年份分類的考卷資料
 - `<year>/<exam_code>/exam.json`：題目與選項
 - `<year>/<exam_code>/assets.json`：題目圖片與圖片選項對照
 - `<year>/<exam_code>/answers.json`：答案資料
@@ -31,6 +31,11 @@ This repository contains structured data for Taiwan TCM national licensing exami
 - 多個可接受答案範例：`["A", "B", "C", "D"]`
 - 需要補充時可用 `note`
 
+### 字形正規化
+
+- 本資料集統一使用「鉤藤」。國考原題中可見「鉤藤」與「鈎藤」兩種寫法；為便於檢索與資料一致性，本專案一律正規化為「鉤藤」。
+- 另將明顯誤植之「白光白」統一校正為「㿠白」。
+
 ## English
 
 This repository provides structured data for Taiwan TCM national licensing examinations, including question text, figures, and answer keys.
@@ -39,7 +44,7 @@ This repository provides structured data for Taiwan TCM national licensing exami
 
 - `index.json`: master index
 - `index.md`: human-readable index
-- `105/` through `115/`: exams grouped by year
+- `101/` through `115/`: exams grouped by year
 - `<year>/<exam_code>/exam.json`: questions and options
 - `<year>/<exam_code>/assets.json`: figure and image-option references
 - `<year>/<exam_code>/answers.json`: answer data
@@ -59,3 +64,8 @@ This repository provides structured data for Taiwan TCM national licensing exami
 - Single-answer example: `["B"]`
 - Multi-accepted-answer example: `["A", "B", "C", "D"]`
 - Use `note` only when a human-readable explanation is needed
+
+### Normalization
+
+- This dataset standardizes both `鉤藤` and `鈎藤` to `鉤藤` for consistency and easier search.
+- The obvious misrendering `白光白` is corrected to `㿠白`.
